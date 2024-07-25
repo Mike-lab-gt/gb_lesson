@@ -73,3 +73,4 @@
 | Строка 1 | Ячейка 2 | Ячейка 3 |
 | Строка 2 | Ячейка 5 | Ячейка 6 |
 | Строка 3 | Ячейка 8 | Ячейка 9 |
+<img src=https://moon.kz/upload/iblock/61a/5vpg05ysvar35qf8ssfw62l2ltujc100.jpg width=300>
